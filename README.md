@@ -1,0 +1,1 @@
+# arix-shield-tests-results
